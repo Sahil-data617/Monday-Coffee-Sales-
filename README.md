@@ -1,5 +1,5 @@
 # Monday Coffee Expansion SQL Project
-
+![Monday Coffee Sales](https://github.com/Sahil-data617/Monday-Coffee-Sales-/blob/main/1.png?raw=true)
 
 
 ## Objective
